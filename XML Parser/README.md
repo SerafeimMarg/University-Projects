@@ -1,11 +1,8 @@
-# excel-xml-parser
+# XML Parser
 
-A simple parser made for excel xml files.
+Parser creation for a subset of XML(eXtensible Markable Language) that is used by Microsoft Excel. 
 
-## Installing
-
+# How to use
 Run the makefile
-
-## Usage
 ```
 ./parser yourinput.xml
