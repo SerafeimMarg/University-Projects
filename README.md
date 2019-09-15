@@ -1,2 +1,2 @@
-# uni-projects
-Some of my university projects.
+# University Projects
+Some projects I completed as an undergratuate student
