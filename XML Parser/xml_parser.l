@@ -59,3 +59,4 @@ boolean [true false]
 {quote}{integer}{quote} {printf("%s", yytext);return (INTVALUE);}
 {quote}{boolean}{quote} {printf("%s", yytext);return (BOOLVALUE);} 
 {integer}               {printf("%s", yytext);return (NUMBER);}
+
